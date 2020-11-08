@@ -1,4 +1,4 @@
-# vkhack_irkutsk202010
+# vkhack_irkutsk202011
 Хакатон ВКонтакте | Белгород | Команда "Advance" | Кейс "Easy School"
 
 # Начало работы
